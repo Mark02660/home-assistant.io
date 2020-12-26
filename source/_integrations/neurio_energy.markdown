@@ -19,7 +19,7 @@ sensor:
   platform: neurio_energy
   api_key: CLIENT_ID
   api_secret: CLIENT_SECRET
-  sensor_id: SENSOR_ID
+  sensor_id: "SENSOR_ID"
 ```
 
 Two sensors will be created with the following names:
